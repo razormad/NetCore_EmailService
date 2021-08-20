@@ -1,2 +1,2 @@
-# NetCore_EmailService
+# NetCore EmailService
 TBD
